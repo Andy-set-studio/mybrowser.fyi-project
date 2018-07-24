@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-Thanks for stopping by. This repository is set up to map out the [mybrowser.fyi](mybrowser.fyi) roadmap and track any issues. 
+Thanks for stopping by. This repository is set up to map out the [mybrowser.fyi](https://mybrowser.fyi/) roadmap and track any issues. 
 
 If you're here to log an issue, please [head over to the issues area and log a ticket](https://github.com/hankchizljaw/mybrowser.fyi-project/issues).
 
